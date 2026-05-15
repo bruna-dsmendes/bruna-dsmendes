@@ -5,8 +5,9 @@ Sou estudante e desenvolvedor em formação, entusiasta da tecnologia e desenvol
  
 Atualmente estudo:
 - Java
+- JavaScript
+- HTML
 - React Native
-- Python
 - Spring Boot
 - Git e GitHub
 - Banco de Dados
@@ -17,6 +18,7 @@ Atualmente estudo:
 - MySQL
 - Git
 - GitHub
+- Netlify
  
 ## 📚 Atualmente aprendendo
 - Desenvolvimento Back-end
