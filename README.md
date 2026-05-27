@@ -69,5 +69,3 @@ Aplicação console em Java focada na consolidação dos pilares fundamentais da
 ---
 
 <p align="center">🎨 "O código é como a poesia; deve ser curto, limpo e expressar exatamente a intenção."</p>
-
-<p align="center">👁️ Número de visitas ao perfil: ![Contador](https://profile-counter.glitch.me/bruna-dsmendes/count.svg)</p>
