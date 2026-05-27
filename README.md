@@ -40,7 +40,7 @@ Aqui estão alguns dos principais projetos que desenvolvi recentemente:
 API completa desenvolvida em equipe, voltada para a gestão e otimização de fluxos de cobrança e relacionamento com o cliente.
 * **Techs:** Java, Spring Boot, Spring Data JPA, MySQL.
 
-### 🎮 [Loja de Games Backend](https://github.com/bruna-dsmendes/loja_de_games)
+### 🎮 [Loja de Games Backend](https://github.com/bruna-dsmendes/lojagames_api)
 Desenvolvimento completo de uma API de e-commerce de jogos com relacionamento One-to-Many entre Produtos e Categorias.
 * **Techs:** Spring Boot, Spring Validation, Hibernate.
 
