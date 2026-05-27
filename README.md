@@ -33,32 +33,6 @@ Seja bem-vindo(a) ao meu perfil do GitHub! Sou uma entusiasta da tecnologia em t
 
 ---
 
-## 📌 Projetos em Destaque
-
-Aqui estão alguns dos principais projetos que desenvolvi recentemente:
-
-### 🌟 [Projeto Integrador - CRM de Cobrança](https://github.com/crmprojetointegrador/projeto-integrador)
-API completa desenvolvida em equipe voltada para a gestão e otimização de fluxos de cobrança e relacionamento com o cliente.
-* **Techs:** Java, Spring Boot, Spring Data JPA, MySQL.
-
-### 🎮 [Loja de Games Backend](https://github.com/bruna-dsmendes/loja_de_games)
-Desenvolvimento completo de uma API de e-commerce de jogos com relacionamento One-to-Many entre Produtos e Categorias.
-* **Techs:** Spring Boot, Spring Validation, Hibernate.
-
-### 🏦 [Simulador de Conta Bancária](https://github.com/bruna-dsmendes/conta_bancaria)
-Aplicação console em Java focada na consolidação dos pilares fundamentais da Programação Orientada a Objetos (POO).
-* **Techs:** Java puro, Herança, Polimorfismo, Classes Abstratas.
-
----
-
-## 🐍 Minhas Contribuições
-
-🎯 O gráfico abaixo representa o histórico de commits gerado dinamicamente:
-
-![Animação da Cobrinha](https://raw.githubusercontent.com/bruna-dsmendes/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
