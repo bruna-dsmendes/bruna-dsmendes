@@ -17,11 +17,6 @@ Seja bem-vindo(a) ao meu perfil do GitHub! Sou uma entusiasta da tecnologia em t
 
 ---
 
-## 🏆 Minhas Conquistas
-[![Troféus da Bruna](https://github-profile-trophy.vercel.app/?username=bruna-dsmendes&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 🛠️ Tecnologias & Ferramentas
 
 ### 🖥️ Backend & Banco de Dados
